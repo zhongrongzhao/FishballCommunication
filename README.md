@@ -1,4 +1,6 @@
 # FishballCommunication
+## 框架：
+	.NET Framwork 4.7.2
 ### 基本介绍：<br>
     1.利用数据库（sql server）进行数据交互通讯
     2.包含加密信息功能
