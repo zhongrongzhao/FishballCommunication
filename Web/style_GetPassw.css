@@ -1,0 +1,90 @@
+body{
+    position:absolute;
+    top:0;
+    left:0;
+    height:100%;
+    width:100%;
+    background-image: url(./close-up-photo-of-berries-1379636.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    -webkit-background-size: cover;/* 兼容Webkit内核浏览器如Chrome和Safari */
+    -o-background-size: cover;/* 兼容Opera */
+    zoom: 1;    
+}
+
+h1{
+    color: #ffffff;
+    font-size: 100;
+}
+
+.color_name{
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.Register
+{
+    color: floralwhite;
+    font-size: 40px;
+}
+.set_input{
+    font-family: "微软雅黑";
+    width: 200px;
+    height: 30px;
+    font-size: 22;   
+    color: #ffffff;
+    border: 0ch;
+    background-color: transparent;
+    border-bottom: 1px solid #dbdbdb;  
+    border-top:0px;  
+    border-left:0px;  
+    border-right:0px;  
+}
+
+.set_button
+{
+    width: 90px;
+    height: 50px;
+    color: #ffffff;
+    background-color: brown;
+    border: 0ch;
+    border-radius: 5px;
+}
+
+
+.content {
+	width: 400px;
+	height: 450px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -200px;
+	margin-left: -200px;
+	border-radius: 8px;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+	overflow: hidden;
+	z-index: 2;
+	padding: 50px;
+	box-sizing: border-box;
+}
+
+.content::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	-webkit-filter: blur(20px);
+	-moz-filter: blur(20px);
+	-ms-filter: blur(20px);
+	-o-filter: blur(20px);
+	filter: blur(20px);
+	z-index: -3;
+	margin: -30px;
+	background-image: url(./close-up-photo-of-berries-1379636.jpg);
+	background-position: center top;
+	background-size: cover;
+	background-attachment: fixed;
+}
