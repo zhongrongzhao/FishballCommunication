@@ -1,0 +1,9 @@
+E:\CODE\鱼蛋通讯\FishballCommunication\FixBug\bin\Debug\FixBug.exe.config
+E:\CODE\鱼蛋通讯\FishballCommunication\FixBug\bin\Debug\FixBug.exe
+E:\CODE\鱼蛋通讯\FishballCommunication\FixBug\bin\Debug\FixBug.pdb
+E:\CODE\鱼蛋通讯\FishballCommunication\FixBug\obj\Debug\BugFix.csprojAssemblyReference.cache
+E:\CODE\鱼蛋通讯\FishballCommunication\FixBug\obj\Debug\FixBug.Properties.Resources.resources
+E:\CODE\鱼蛋通讯\FishballCommunication\FixBug\obj\Debug\BugFix.csproj.GenerateResource.cache
+E:\CODE\鱼蛋通讯\FishballCommunication\FixBug\obj\Debug\FixBug.exe
+E:\CODE\鱼蛋通讯\FishballCommunication\FixBug\obj\Debug\FixBug.pdb
+E:\CODE\鱼蛋通讯\FishballCommunication\FixBug\obj\Debug\FixBug.Form_Bug_Fix.resources
