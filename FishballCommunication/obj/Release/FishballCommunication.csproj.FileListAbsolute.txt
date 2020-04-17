@@ -1,0 +1,14 @@
+E:\CODE\鱼蛋通讯\FishballCommunication\FishballCommunication\bin\Release\FishballCommunication.exe.config
+E:\CODE\鱼蛋通讯\FishballCommunication\FishballCommunication\bin\Release\FishballCommunication.exe
+E:\CODE\鱼蛋通讯\FishballCommunication\FishballCommunication\bin\Release\FishballCommunication.pdb
+E:\CODE\鱼蛋通讯\FishballCommunication\FishballCommunication\obj\Release\FishballCommunication.csprojAssemblyReference.cache
+E:\CODE\鱼蛋通讯\FishballCommunication\FishballCommunication\obj\Release\Interop.IWshRuntimeLibrary.dll
+E:\CODE\鱼蛋通讯\FishballCommunication\FishballCommunication\obj\Release\FishballCommunication.csproj.ResolveComReference.cache
+E:\CODE\鱼蛋通讯\FishballCommunication\FishballCommunication\obj\Release\FishballCommunication.Main_Table.resources
+E:\CODE\鱼蛋通讯\FishballCommunication\FishballCommunication\obj\Release\FishballCommunication.Setting.resources
+E:\CODE\鱼蛋通讯\FishballCommunication\FishballCommunication\obj\Release\FishballCommunication.Form_Sign_In.resources
+E:\CODE\鱼蛋通讯\FishballCommunication\FishballCommunication\obj\Release\FishballCommunication.Properties.Resources.resources
+E:\CODE\鱼蛋通讯\FishballCommunication\FishballCommunication\obj\Release\FishballCommunication.csproj.GenerateResource.cache
+E:\CODE\鱼蛋通讯\FishballCommunication\FishballCommunication\obj\Release\FishballCommunication.csproj.CoreCompileInputs.cache
+E:\CODE\鱼蛋通讯\FishballCommunication\FishballCommunication\obj\Release\FishballCommunication.exe
+E:\CODE\鱼蛋通讯\FishballCommunication\FishballCommunication\obj\Release\FishballCommunication.pdb
