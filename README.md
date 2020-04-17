@@ -1,10 +1,11 @@
 # FishballCommunication
 ## 框架：
 	.NET Framwork 4.7.2
-### 基本介绍：<br>
+### 基本通讯介绍：<br>
     1.利用数据库（sql server）进行数据交互通讯
     2.包含加密信息功能
     3.一对一通讯交换
+    [基本架构.png](https://github.com/zhongrongzhao/FishballCommunication/blob/master/%E5%9F%BA%E6%9C%AC%E6%9E%B6%E6%9E%84.png)
 ### 宗旨：<br>
 只能跟一个人通讯，用极其恶心的信息加密技术通讯，无后台记录通讯。<br><br>
 ### 可以干嘛？<br>
