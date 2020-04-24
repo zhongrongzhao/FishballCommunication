@@ -21,4 +21,10 @@
 	对方收到信息后数据库清空，<br>
 	无论对方有没有收到信息，5秒后数据库也清空,<br>
 	软件退出，电脑聊天记录不保存，也清空。<br>
+### 软件截图
+![image](https://github.com/zhongrongzhao/FishballCommunication/blob/master/001.png)
+![image](https://github.com/zhongrongzhao/FishballCommunication/blob/master/002.png)
+![image](https://github.com/zhongrongzhao/FishballCommunication/blob/master/003.png)
+![image](https://github.com/zhongrongzhao/FishballCommunication/blob/master/004.png)
+![image](https://github.com/zhongrongzhao/FishballCommunication/blob/master/005.png)
 ![image](https://github.com/zhongrongzhao/FishballCommunication/blob/master/%E8%B5%9E%E5%8A%A9.png)
