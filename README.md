@@ -26,5 +26,5 @@
 ![image](https://github.com/zhongrongzhao/FishballCommunication/blob/master/002.png)
 ![image](https://github.com/zhongrongzhao/FishballCommunication/blob/master/003.png)
 ![image](https://github.com/zhongrongzhao/FishballCommunication/blob/master/004.png)
-![image](https://github.com/zhongrongzhao/FishballCommunication/blob/master/005.png)
+![image](https://github.com/zhongrongzhao/FishballCommunication/blob/master/005.jpg)
 ![image](https://github.com/zhongrongzhao/FishballCommunication/blob/master/%E8%B5%9E%E5%8A%A9.png)
